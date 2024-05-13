@@ -1,4 +1,4 @@
-# My-Personal-Projects
+# Personal Projects
 - Riyadh PE
 - Break Point
 - Notes
