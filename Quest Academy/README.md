@@ -1,4 +1,4 @@
-# Quest
+# Quest Academy
 
 Simple School Management System built using MERN stack
 
@@ -11,17 +11,16 @@ Simple School Management System built using MERN stack
 - SCSS
 - Moment.JS
 
-# Project Stat
+# Project Status
 
 Started at 01 April 2024<br>
 Completed at 10 May 2024
 
-# Upcoming Updates
+# Potential Future Updates
 
 - Pagination
 - Actual Weather Temp
 - Update User Profile Image
 - Proper Mobile Navigation
-- SEO(??)
-- Code Cleaning
-
+- SEO
+- Settings Page
