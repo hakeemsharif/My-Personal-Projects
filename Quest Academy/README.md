@@ -13,7 +13,7 @@ Simple School Management System built using MERN stack
 
 # Project Stat
 
-Started at 01 April 2024
+Started at 01 April 2024<br>
 Completed at 10 May 2024
 
 # Upcoming Updates
